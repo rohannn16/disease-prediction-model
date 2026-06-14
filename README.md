@@ -1,7 +1,7 @@
 # 🩺 Disease Prediction Using Machine Learning
 
 > An end-to-end Machine Learning project that predicts diseases using patient health data. This project covers the complete ML lifecycle—from data loading and exploratory analysis to model training, evaluation, and deployment-ready model serialization.
-![Banner](https://github.com/rohannn16/disease-prediction-model/blob/main/images/disease_prediction_banner.png)
+![Banner](https://github.com/rohannn16/disease-prediction-model/blob/main/images/Disease_Prediction_Banner.png)
 
 
 ---
@@ -96,7 +96,7 @@ The models were evaluated using:
 * Precision–Recall Analysis
 
 ![c_matrix](https://github.com/rohannn16/disease-prediction-model/blob/main/images/confusion_matrix.png)
-![roc_precision_curve](https://github.com/rohannn16/disease-prediction-model/blob/main/images/roc_&_precision_recall_curve.png)
+![roc_precision_recal_curve](https://github.com/rohannn16/disease-prediction-model/blob/main/images/roc_%26_precision_recall_curve.png)
 ---
 
 ## 📂 Project Structure
