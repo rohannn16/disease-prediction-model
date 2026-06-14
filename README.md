@@ -1,7 +1,7 @@
 # 🩺 Disease Prediction Using Machine Learning
 
 > An end-to-end Machine Learning project that predicts diseases using patient health data. This project covers the complete ML lifecycle—from data loading and exploratory analysis to model training, evaluation, and deployment-ready model serialization.
-![Banner](https://github.com/rohannn16/disease-prediction-model/blob/main/images/Disease_Prediction_Banner.png)
+![Banner](https://github.com/rohannn16/disease-prediction-model/blob/main/images/disease_prediction_banner.png)
 
 
 ---
@@ -95,8 +95,8 @@ The models were evaluated using:
 * Confusion Matrix
 * Precision–Recall Analysis
 
-![c_matrix](https://github.com/rohannn16/disease-prediction-model/blob/main/images/Cunfusion%20Matrix.png)
-![roc_precision_curve](https://github.com/rohannn16/disease-prediction-model/blob/main/images/ROC%20%26%20Precision_Recall%20Curve.png)
+![c_matrix](https://github.com/rohannn16/disease-prediction-model/blob/main/images/confusion_matrix.png)
+![roc_precision_curve](https://github.com/rohannn16/disease-prediction-model/blob/main/images/roc_&_precision_recall_curve.png)
 ---
 
 ## 📂 Project Structure
@@ -110,7 +110,11 @@ Disease-Prediction/
 ├── saved_models/
 │   └── disease_prediction_model.pkl
 ├── images/
-│   └── project_banner.png
+│   └── roc_&_precision_recall_curve.png
+│   └── confusion_matrix.png
+│   └── disease_prediction_banner.png
+│   └── load_predict.png
+│   └── metrics.png
 └── dataset/
     └── disease_prediction.csv
 ```
@@ -121,7 +125,7 @@ Disease-Prediction/
 
 The final trained model was serialized using **Joblib**, making it ready for deployment in healthcare applications and decision-support systems.
 
-![Load&Run](https://github.com/rohannn16/disease-prediction-model/blob/main/images/Load%20%26%20Run.png)
+![Load&Run](https://github.com/rohannn16/disease-prediction-model/blob/main/images/load_predict.png)
 
 ---
 
@@ -144,5 +148,5 @@ If you found this project useful, don't forget to ⭐ this repository!
 ---
 
 <p align="center">
-  Made with ❤️ by <b>Rohan Shah</b>
+  Made with ❤️ by <b>Rohan</b>
 </p>
